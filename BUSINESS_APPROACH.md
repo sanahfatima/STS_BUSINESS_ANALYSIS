@@ -1,6 +1,7 @@
 # STS-BUSINESS-ANALYSIS
 
 ##QUESTIONS 
+
 What external data to use?
 What internal client data to utilise?
 How to turn insights into growth actions?
